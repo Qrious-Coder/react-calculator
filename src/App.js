@@ -13,8 +13,9 @@ function App() {
       <div className={ bgStyle }>
         <Navbar />
         <div className="content flex justify-center items-center">
+          {StatePage}
           <Routes>
-            <Route path="/StatePage" element={ <StatePage/> }>
+            <Route path="/" element={ <StatePage/> }>
             </Route> 
             <Route path="/ReducerPage" element={ <ReducerPage/>}>
             </Route>
