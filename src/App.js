@@ -13,7 +13,6 @@ function App() {
       <div className={ bgStyle }>
         <Navbar />
         <div className="content flex justify-center items-center">
-          {StatePage}
           <Routes>
             <Route path="/" element={ <StatePage/> }>
             </Route> 
