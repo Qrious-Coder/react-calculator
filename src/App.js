@@ -14,7 +14,7 @@ function App() {
         <Navbar />
         <div className="content flex justify-center items-center">
           <Routes>
-            <Route path="/" element={ <StatePage/> }>
+            <Route path="/StatePage" element={ <StatePage/> }>
             </Route> 
             <Route path="/ReducerPage" element={ <ReducerPage/>}>
             </Route>
