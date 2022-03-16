@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/http//Qrious-Coder.github.io/react-calculator/static/css/main.e34f33cd.css",
-    "main.js": "/http//Qrious-Coder.github.io/react-calculator/static/js/main.e55c433f.js",
-    "static/media/github.png": "/http//Qrious-Coder.github.io/react-calculator/static/media/github.830a279ecad1dca3e329.png",
-    "static/media/gmail.png": "/http//Qrious-Coder.github.io/react-calculator/static/media/gmail.168531d6bbe6324895ea.png",
-    "static/media/tele.png": "/http//Qrious-Coder.github.io/react-calculator/static/media/tele.3f0dc33ab8dd25cfce08.png",
-    "static/media/whatsapp.png": "/http//Qrious-Coder.github.io/react-calculator/static/media/whatsapp.2494f8b8ccb6c8e83082.png",
-    "static/media/logo.svg": "/http//Qrious-Coder.github.io/react-calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/http//Qrious-Coder.github.io/react-calculator/index.html",
-    "main.e34f33cd.css.map": "/http//Qrious-Coder.github.io/react-calculator/static/css/main.e34f33cd.css.map",
-    "main.e55c433f.js.map": "/http//Qrious-Coder.github.io/react-calculator/static/js/main.e55c433f.js.map"
+    "main.css": "/http//Qrious-Coder.github.io/static/css/main.e34f33cd.css",
+    "main.js": "/http//Qrious-Coder.github.io/static/js/main.73577869.js",
+    "static/media/github.png": "/http//Qrious-Coder.github.io/static/media/github.830a279ecad1dca3e329.png",
+    "static/media/gmail.png": "/http//Qrious-Coder.github.io/static/media/gmail.168531d6bbe6324895ea.png",
+    "static/media/tele.png": "/http//Qrious-Coder.github.io/static/media/tele.3f0dc33ab8dd25cfce08.png",
+    "static/media/whatsapp.png": "/http//Qrious-Coder.github.io/static/media/whatsapp.2494f8b8ccb6c8e83082.png",
+    "static/media/logo.svg": "/http//Qrious-Coder.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/http//Qrious-Coder.github.io/index.html",
+    "main.e34f33cd.css.map": "/http//Qrious-Coder.github.io/static/css/main.e34f33cd.css.map",
+    "main.73577869.js.map": "/http//Qrious-Coder.github.io/static/js/main.73577869.js.map"
   },
   "entrypoints": [
     "static/css/main.e34f33cd.css",
-    "static/js/main.e55c433f.js"
+    "static/js/main.73577869.js"
   ]
 }
