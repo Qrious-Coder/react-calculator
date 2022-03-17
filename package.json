@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://Qrious-Coder.github.io/react-calculator/",
+=======
+  "homepage": "https://Qrious-Coder.github.io/react-calculator",
+>>>>>>> 80470e8b9cf549f8b7b5f6f1e761e7cfebadb45d
   "name": "react-cal",
   "version": "0.1.0",
   "private": true,
