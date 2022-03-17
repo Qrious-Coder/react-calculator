@@ -14,7 +14,7 @@ function App() {
         <Navbar />
         <div className="content flex justify-center items-center">
           <Routes>
-            <Route path="https://Qrious-Coder.github.io/react-calculator/" element={ <StatePage/> }>
+            <Route path="/" element={ <StatePage/> }>
             </Route> 
             <Route path="/ReducerPage" element={ <ReducerPage/>}>
             </Route>
