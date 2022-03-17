@@ -8,7 +8,7 @@ const Footer =() => {
   return (
     <div className="text-center text-blue-200 m-10">
       <p>This project is built with React and Tailwind CSS.</p>
-      <p><small> View my code on <span style={{ textDecoration: 'underline purple' }}><a href="https://github.com/Qrious-Coder/react-calculator" 
+      <p><small> View my code on <span style={{ textDecoration: 'underline purple', color:'pink' }}><a href="https://github.com/Qrious-Coder/react-calculator" 
             target="_blank">Github</a></span> or drop me your comments at any below:</small></p>
       <p className="grid grid-cols-4 gap-0 mx-auto place-content-center w-48 my-5">    
         <span className="footerIcon">
