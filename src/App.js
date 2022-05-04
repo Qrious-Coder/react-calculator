@@ -15,7 +15,7 @@ function App() {
         <div className="content flex justify-center items-center">
             <Routes>
               <Route path="/react-calculator" element={ <StatePage/> } />
-              <Route path="/react-calculator/ReducerPage" element={ <ReducerPage/>} />
+              <Route path="/ReducerPage" element={ <ReducerPage/>} />
             </Routes>
         </div> 
         <Footer />   
