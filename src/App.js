@@ -13,8 +13,8 @@ function App() {
         <Navbar />
         <div className="content flex justify-center items-center">
             <Routes>
-              <Route path="/react-calculator" element={ <StatePage/> } />
-              <Route path="/react-calculator/react-calculator/ReducerPage" element={ <ReducerPage/>} />
+              <Route path="/" element={ <StatePage/> } />
+              <Route path="/ReducerPage" element={ <ReducerPage/>} />
             </Routes>
         </div> 
         <Footer />   
