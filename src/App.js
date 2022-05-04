@@ -15,7 +15,7 @@ function App() {
             <Routes>
               {/* <Route path="/react-calculator/" element={ <StatePage/> } /> */}
               <Route path="/" element={ <StatePage/> } />
-              <Route path="/ReducerPage" element={ <ReducerPage/>} />
+              <Route path="/ReducerPage/" element={ <ReducerPage/>} />
             </Routes>
         </div> 
         <Footer />   
