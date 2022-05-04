@@ -3,7 +3,7 @@ import Navbar from './Components/Outlay/Navbar';
 import StatePage from './Components/Outlay/StatePage';
 import ReducerPage from './Components/Outlay/ReducerPage';
 import Footer from './Components/Outlay/Footer';
-import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+import {BrowserRouter as Router,Routes,Route} from 'react-router-dom'
 import { bgStyle } from './Components/styles/Styles'
 
 function App() {
@@ -13,12 +13,10 @@ function App() {
       <div className={ bgStyle }>
         <Navbar />
         <div className="content flex justify-center items-center">
-          <Routes>
-            <Route path="/react-calculator" element={ <StatePage/> }>
-            </Route> 
-            <Route path="/react-calculator/ReducerPage" element={ <ReducerPage/>}>
-            </Route>
-          </Routes>
+            <Routes>
+              <Route path="/react-calculator" element={ <StatePage/> } />
+              <Route path="/react-calculator/ReducerPage" element={ <ReducerPage/>} />
+            </Routes>
         </div> 
         <Footer />   
       </div>
