@@ -49,7 +49,7 @@ const ReducerPage = () => {
             <NumberButton value="8" label="8" dispatch={dispatch}/>
             <NumberButton value="9" label="9" dispatch={dispatch}/>
 
-            <OperButton id="add" operator="-" dispatch={dispatch}/> 
+            <OperButton id="minus" operator="-" dispatch={dispatch}/> 
 
             <NumberButton value="4" label="4" dispatch={dispatch}/>
             <NumberButton value="5" label="5" dispatch={dispatch}/>

@@ -121,7 +121,7 @@ const calculate = ({currentInput, previousInput, operationInput}) => {
       cal = previousNum + currentNum;
       break
     case "-":
-      cal = previousNum + currentNum;
+      cal = previousNum - currentNum;
       break
     case "*":
       cal = previousNum * currentNum;
