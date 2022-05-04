@@ -7,7 +7,6 @@ import {BrowserRouter as Router,Routes,Route} from 'react-router-dom'
 import { bgStyle } from './Components/styles/Styles'
 
 function App() {
-  //write any js before return
   return (
     <Router>
       <div className={ bgStyle }>
@@ -15,7 +14,7 @@ function App() {
         <div className="content flex justify-center items-center">
             <Routes>
               <Route path="/react-calculator" element={ <StatePage/> } />
-              <Route path="/ReducerPage" element={ <ReducerPage/>} />
+              <Route path="/react-calculator/react-calculator/ReducerPage" element={ <ReducerPage/>} />
             </Routes>
         </div> 
         <Footer />   
