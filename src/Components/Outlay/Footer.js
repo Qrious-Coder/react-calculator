@@ -12,7 +12,7 @@ const Footer =() => {
             target="_blank">Github</a></span> or drop me your comments at any below:</small></p>
       <p className="grid grid-cols-4 gap-0 mx-auto place-content-center w-48 my-5">    
         <span className="footerIcon">
-          <a href="https://github.com/Qrious-Coder/react-calculator" 
+          <a href="https://github.com/Qrious-Coder" 
             target="_blank">
             <img src={github} alt="github" width={30} height={30}/>
           </a>
